@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ollama": "^0.5.15",
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.18"
+  }
+}
